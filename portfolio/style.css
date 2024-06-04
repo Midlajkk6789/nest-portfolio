@@ -1,0 +1,32 @@
+body{
+    background-color: #EAE7DC;
+}
+.btn-outline-custom {
+    color: #8E8D8A; /* Text color */
+    border-color: #d8c3a5; /* Outline color */
+}
+.container-full {
+    width: 100vw; /* 100% of viewport width */
+    height: 100vh; /* 100% of viewport height */
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.hometext{
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+.homeimg{
+    flex: 1;
+}
+
+section{
+padding-top: 100px;
+justify-content: center;
+    align-items: center;
+}
+
+
+
